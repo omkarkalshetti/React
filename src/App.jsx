@@ -8,6 +8,7 @@ function App() {
   return (
     <>
     {/* <BgColor></BgColor> */}
+    <h1 className='text-white'>Hello</h1>
     <PassWordGenrate></PassWordGenrate>
     </>
   );
